@@ -6,7 +6,7 @@ This repository holds some Dashboard projects using my advanced Excel skills.
 Aims to visualize how the composition of the music market has changed over the last 40 years
  from 1973 to 2019, for physical and digital formats.
 
-# Excel Skills utilized:
+### Excel Skills utilized:
 <li> Selecting an effective chart type
 <li> Creating the chart in Excel
 <li> Customizing Axis Labels
