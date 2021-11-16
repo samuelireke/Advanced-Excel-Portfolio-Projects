@@ -1,0 +1,13 @@
+# Dataset Summary
+<li> US music revenues by format, from 1973 to 2019
+
+# Dimensions & Measures
+<li> <b>Dimensions:</b> Year
+<li> <b>Measures:</b> Revenue (Physical vs. Digital formats)
+
+# Excel Skills utilized:
+<li> Selecting an effective chart type
+<li> Creating the chart in Excel
+<li> Customizing Axis Labels
+<li> Using formatting to eliminate noise
+<li> Adding context to help tell a compelling story.
