@@ -15,6 +15,7 @@ Aims to visualize how the composition of the music market has changed over the l
 
  
  ## Project 2. US_Labour_Statistics_Analysis_Dashboard
+ https://1drv.ms/x/s!AnjdNA3T41Hei74JQIh_diq_SlSbMw?e=FYLx2A
 
 This project aims to create a dashboard that senior high school students can use to explore
 wage and employment trends, and compare them across industries in the US.
