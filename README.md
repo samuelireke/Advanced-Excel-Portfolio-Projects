@@ -29,3 +29,7 @@ wage and employment trends, and compare them across industries in the US.
 6. Configure the workbook for viewers
 7. Adding Form Controls
 8. Protecting Workbooks & Worksheets
+
+ 
+ ## Project 3. Sales Performance_Dashboard
+ https://1drv.ms/x/s!AnjdNA3T41Hei74zfemjCkYXwvAFRw?e=OCg7Th
