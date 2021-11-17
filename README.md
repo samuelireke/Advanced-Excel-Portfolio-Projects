@@ -31,5 +31,5 @@ wage and employment trends, and compare them across industries in the US.
 8. Protecting Workbooks & Worksheets
 
  
- ## Project 3. Sales Performance_Dashboard
+ ## Project 3. Regional Revenue Performance_Dashboard
 https://1drv.ms/x/s!AnjdNA3T41Hei74zfemjCkYXwvAFRw?e=XT1X2Y
